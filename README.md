@@ -143,7 +143,7 @@ I used
 
 ## Remote URL
 - [Heroku](https://webspoons-assignment.herokuapp.com/api/v1/snippet/)
-- [repl](https://webspoons-assignment.phayo.repl.co)
+- [repl](https://webspoons-assignment.phayo.repl.co/api/v1/snippet/)
 
 ## Author
 ### Chukwuebuka Anazodo
