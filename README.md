@@ -142,8 +142,8 @@ I used
 #### File based storage
 
 ## Remote URL
-[Heroku](https://webspoons-assignment.herokuapp.com/api/v1/snippet/)
-
+- [Heroku](https://webspoons-assignment.herokuapp.com/api/v1/snippet/)
+- [repl](https://webspoons-assignment.phayo.repl.co)
 
 ## Author
 ### Chukwuebuka Anazodo
