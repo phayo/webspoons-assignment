@@ -142,8 +142,8 @@ I used
 #### File based storage
 
 ## Remote URL
-- [Heroku](https://webspoons-assignment.herokuapp.com/swagger-ui.html)
-- [repl](https://webspoons-assignment.phayo.repl.co/swagger-ui.html)
+- [Heroku](https://webspoons-assignment.herokuapp.com/)
+- [repl](https://webspoons-assignment.phayo.repl.co/)
 
 ## Author
 ### Chukwuebuka Anazodo
