@@ -21,7 +21,7 @@ import org.springframework.stereotype.Service;
 public class SnippetService {
     private final SnippetRepository snippetRepository;
 
-    @Value("${server.servlet.context-path}")
+    @Value("${snippet.context.url}")
     private String contextPath;
 
     @Value("${server.port}")
